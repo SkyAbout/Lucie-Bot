@@ -1,0 +1,20 @@
+{
+  "name": "Lucie",
+  "version": "1.1",
+  "description": "It's a discord bot ! Add me to your server",
+  "repository": {
+    "type": "Discord Bot",
+    "url": "https://skyabout.000webhostapp.com/k"
+  },
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "SkyAbout",
+  "license": "CC-BY-NC-ND-4.0: Attribution-NonCommercial-NoDerivs 4.0 International",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "node-opus": "^0.2.4",
+    "opusscript": "0.0.1"
+  }
+}
